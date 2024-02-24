@@ -1,0 +1,12 @@
+<!-- A Webpage Example -->
+<DOCTYPE html>
+    <html>
+        <head>
+            <meta charset = "UTF-8">
+            <title>A Webpage Example</title>
+        </head>
+        <body>
+            <h1>Hello World!</h1>
+            <p>This is a paragraph of text</p>
+        </body>
+    </html>
